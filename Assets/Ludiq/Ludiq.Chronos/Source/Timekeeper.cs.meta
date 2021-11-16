@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: a10179de595094539a3ca7ba94d6b1c6
+labels:
+- Forward
+- TimeControl
+- Control
+- FastForward
+- Area
+- Timeline
+- Event
+- Accelerate
+- Events
+- Physics
+- SlowDown
+- DeltaTime
+- Slow
+- Clock
+- Rewind
+- Time
+- Chronos
+timeCreated: 1487609716
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 6e579a5a9d5ea61409470fd21268f8ba, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

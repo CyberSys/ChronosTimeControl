@@ -1,0 +1,10 @@
+diff a/Chronos/Example/ExampleSlider.cs b/Chronos/Example/ExampleSlider.cs	(rejected hunks)
+@@ -44,7 +44,7 @@
+ 			}
+ 			else if (clock.parentBlend == ClockBlend.Multiplicative)
+ 			{
+-				sign = "×";
++				sign = "�";
+ 			}
+ 			else // if (clock.parentBlend == ClockBlend.Additive)
+ 			{
